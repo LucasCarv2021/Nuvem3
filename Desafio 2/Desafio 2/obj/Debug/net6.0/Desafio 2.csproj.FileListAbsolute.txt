@@ -1,0 +1,30 @@
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.exe
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.deps.json
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.runtimeconfig.json
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.dll
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\bin\Debug\net6.0\ref\Desafio 2.dll
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.pdb
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.csproj.AssemblyReference.cache
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.AssemblyInfoInputs.cache
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.AssemblyInfo.cs
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.dll
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\ref\Desafio 2.dll
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.pdb
+C:\Users\Nknz1\Desktop\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\bin\Debug\net6.0\ref\Desafio 2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\bin\Debug\net6.0\Desafio 2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\ref\Desafio 2.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Desafio 2\Desafio 2\obj\Debug\net6.0\Desafio 2.genruntimeconfig.cache

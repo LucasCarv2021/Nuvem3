@@ -1,0 +1,40 @@
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.exe
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.deps.json
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.runtimeconfig.json
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.dll
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\ref\Lista de Clientes.dll
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.pdb
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.AssemblyReference.cache
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.AssemblyInfoInputs.cache
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.AssemblyInfo.cs
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.dll
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\ref\Lista de Clientes.dll
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.pdb
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.genruntimeconfig.cache
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.GenerateResource.cache
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.CopyComplete
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista_de_Clientes.Create.resources
+C:\Users\Nknz1\Desktop\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista_de_Clientes.Home.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\ref\Lista de Clientes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\Lista de Clientes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista_de_Clientes.Create.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista_de_Clientes.Home.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.csproj.CopyComplete
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\ref\Lista de Clientes.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\Lista de Clientes\Lista de Clientes\obj\Debug\net6.0-windows\Lista de Clientes.genruntimeconfig.cache
